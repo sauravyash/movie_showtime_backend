@@ -1,5 +1,8 @@
 # Movie Showtime by Yash
 
+## Stack
+Uses React for the frontend framework, with Bulma for the CSS, Express.js for the backend server.
+
 ## Getting Started
 
 ### Install dependencies
@@ -26,4 +29,4 @@ Has features
  - filter by text
  - filter by rating
  - disabled time for screenings in the past
- - responsive
+ - responsive design
