@@ -1,11 +1,13 @@
 const express = require('express');
+
 const movies = require('../../data/movie_metadata.json')
 const theaters = require('../../data/theater_showtimes.json')
+
 
 const router = express.Router();
 
 router.all('/', (req, res) => {
-  res.send({ message: 'Hello world' });
+  res.sendFile('index.html');
 });
 
 router.get('/movies', (req, res) => {
