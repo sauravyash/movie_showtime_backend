@@ -3,6 +3,10 @@
 ## Stack
 Uses React for the frontend framework, with Bulma for the CSS, Express.js for the backend server.
 
+I compiled the frontend and added it to this backend.
+
+View the frontend development code at https://github.com/sauravyash/movie_showtime
+
 ## Getting Started
 
 ### Install dependencies
